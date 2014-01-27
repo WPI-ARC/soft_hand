@@ -1,6 +1,6 @@
 This is VoxCad 0.9.91, slightly modified to allow for a second global temperature variable. I recommend using the latest version of VoxCad instead if possible.
 
-Under Windows it shoule be compiled with Visual Studio 2010, Qt 4.8, and Qwt 6.0. Qwt 6.0 should be built with Visual Studio 2007. The newest version of VoxCad no longer uses Qwt, so it's only necessary for this version.
+Under Windows it should be compiled with Visual Studio 2010, Qt 4.8, and Qwt 6.0. Qwt 6.0 should be built with Visual Studio 2007. The newest version of VoxCad no longer uses Qwt, so it's only necessary for this version. Info about building Qwt are here: http://www.voxcad.com/source-code
 
 -Sam Khalandovsky
 
